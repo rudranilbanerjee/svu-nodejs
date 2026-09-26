@@ -9,6 +9,7 @@ function calculateSum(a, b) {
 }
 // console.log("--->",module.exports)
 module.exports=calculateSum
+// export default calculateSum;
 // console.log("--->",module.exports)
 // this module.export is a default command of node js for 
 // exporting any variable or function to outside of the module.  
